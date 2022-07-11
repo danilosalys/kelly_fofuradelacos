@@ -22,7 +22,6 @@ routes.get("/catalogo/tiaras", ProductsController.getTiaras);
 routes.get("/catalogo/acessorios", ProductsController.getAcessorios);
 
 routes.post("/pedido", OrderValidation.create, OrdersController.postOrder);
-//routes.post("/pedido", OrdersController.postOrder);
 routes.post("/frete",shippingValidation, FreteController.getFrete);
 routes.post("/personalizado", personalizeValidation, PersonalizeController.postPersonalize);
 routes.post("/duvida", QuestionController.postQuestion);
