@@ -1,6 +1,7 @@
 import CloseOutlinedIcon from '@mui/icons-material/CloseOutlined'
 import { useFormik } from "formik";
 import { useSelector } from 'react-redux';
+import { CartState } from '../../@types/cart';
 import { Product } from '../../@types/products';
 import store, { RootStore } from '../../store';
 import { checkoutFetch } from '../../store/modules/cart/cartFetch';
@@ -12,7 +13,7 @@ interface CheckoutModalProps {
 }
 
 function CheckoutModal({ showModal, active }: CheckoutModalProps) {
-    const cart = useSelector((state: RootStore) => state.cart)
+    const cart: CartState = useSelector((state: RootStore) => state.cart)
     const formik = useFormik({
         initialValues: {
             name: "",
