@@ -86,52 +86,6 @@ Este é um e-commerce da marca Kelly Laços & Acessórios, promovendo melhor vis
 </table>
 </br>
 </section>
-
-<section class="tecnologias">
-    <h2> Tecnologias </h2>
-    <h3>Backend:</h3>
-<ul>
-   <img align="center" alt="JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">Javascript
-   <img align="center" alt="Node.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">Node.Js
-   <img align="center" alt="Express" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg">Express
-   <img align="center" alt="Sequelize" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg">Sequelize
-   <img align="center" alt="MySql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">MySql
-</ul>
-
-<h3>Frontend:</h3>
-<ul>
-    <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">React
-    <img align="center" alt="Tailwind" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg">Tailwind
-    <img align="center" alt="TS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">Typescript
-    <img align="center" alt="Redux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg">Redux
-</ul>
-    
-
-</section>
-</br>
-<section class="Site">
-<h2> Site </h2>
-<p> Acesse o site por <a href="https://kellylacosetiaras.herokuapp.com/"> aqui </a> </p>
-
-<hr> 
-
-## Instruções
-
-- Clone ou baixe o repositório
-- Após clonar este repositório vá ao diretório *Backend* e rode `npm install` para instalar as dependências.
-- Com as dependências instaladas, rode `npm run dev` para iniciar o servidor. Servidor roda em: localhost:4000.
-- No repositório *Web* rode `npm install` para instalar as dependências e, em seguida, o `npm run dev` para iniciar o servidor front.
-
-      
-</section>
-<hr>
-<h3>Documentação da API</h3>
-<p> Acesse a documentação do projeto por <a href="https://documenter.getpostman.com/view/21853755/UzJPMuqb"> aqui </a></p>
-
-</br>
-
-<hr>
-
 <section class="Designers">
   <h2> Designers </h2>
 
@@ -174,8 +128,48 @@ Este é um e-commerce da marca Kelly Laços & Acessórios, promovendo melhor vis
 </br>
 </section>
 
-<section class=”Layout”>
-    <h2>  Layout </h2>
-    <p> Acesse o layout do projeto por <a href="https://www.notion.so/mariliapimentab/Big-Boss-Kelly-La-os-Acess-rios-a3c2c0e8497242d280935debc528e1e2"> aqui </a></p>
-<section>
+<section class="tecnologias">
+    <h2> Tecnologias </h2>
+    <h3>Backend:</h3>
+<ul>
+   <img align="center" alt="JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">Javascript
+   <img align="center" alt="Node.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">Node.Js
+   <img align="center" alt="Express" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg">Express
+   <img align="center" alt="Sequelize" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg">Sequelize
+   <img align="center" alt="MySql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">MySql
+</ul>
+
+<h3>Frontend:</h3>
+<ul>
+    <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">React
+    <img align="center" alt="Tailwind" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg">Tailwind
+    <img align="center" alt="TS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">Typescript
+    <img align="center" alt="Redux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg">Redux
+</ul>
+    
+
+</section>
+</br>
+
+<section class="Documentação">
+
+## Documentação
+<p> <a href="https://kellylacosetiaras.herokuapp.com/"> Deploy </a> </p>
+<p> <a href="https://documenter.getpostman.com/view/21853755/UzJPMuqb"> Documentação da API </a></p>
+<p> <a href="https://documenter.getpostman.com/view/21853755/UzJPMuqb"> Layout </a></p>
+<p> <a href="https://www.notion.so/mariliapimentab/Big-Boss-Kelly-La-os-Acess-rios-a3c2c0e8497242d280935debc528e1e2"> Notion </a></p>
+<p> <a href="https://trello.com/invite/b/b8hdUver/21c7abbe6c9aedafa9a17d5c2f5ca176/hacker-desafio-chefao"> Trello </a></p>
+</section>
+
+
+
+<section class="Instruções">
+
+## Instruções
+
+- Clone ou baixe o repositório
+- Após clonar este repositório vá ao diretório *Backend* e rode `npm install` para instalar as dependências.
+- Com as dependências instaladas, rode `npm run dev` para iniciar o servidor. Servidor roda em: localhost:4000.
+- No repositório *Web* rode `npm install` para instalar as dependências e, em seguida, o `npm run dev` para iniciar o servidor front.   
+</section>
 
