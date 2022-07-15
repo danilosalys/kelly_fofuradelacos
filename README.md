@@ -6,10 +6,19 @@
 <h1 align="center">Desafio Chefão <br>
     Show Me Your
     PRODUCT!</h1>
+    
+Este é um e-commerce da marca Kelly Laços & Acessórios, promovendo melhor visibilidade para os produtos e gestão do tempo nas vendas, além de tornar a experiência da pessoa usuária mais agradável, ágil e segura para a compra.
 
-    ![WhatsApp Image 2022-07-15 at 16 18 36](https://user-images.githubusercontent.com/92600746/179316100-0e3df263-4f51-4e56-9296-7b6db4592d38.jpeg)
 
-<hr>  
+<br>
+    
+<div align="center">
+<img src="https://user-images.githubusercontent.com/92600746/179316338-273d0f26-0fe8-4f7b-baba-8c2198c94fa9.jpeg" align="center">
+</div>
+<div align="center">
+<img src="https://user-images.githubusercontent.com/92600746/179316793-7fdfdb9f-2c44-4a13-9935-3712db740463.jpeg" align="center">
+</div>
+
 
 <section class="devs">
   <h2> Desenvolvedores </h2>
@@ -108,33 +117,11 @@
 
 ## Instruções
 
-- Clone ou baixe o repositório <br>
-**No diretório Backend:**
-- `npm install` para instalar as dependências 
-- `npm run dev` para iniciar o servidor
+- Clone ou baixe o repositório
+- Após clonar este repositório vá ao diretório *Backend* e rode `npm install` para instalar as dependências.
+- Com as dependências instaladas, rode `npm run dev` para iniciar o servidor. Servidor roda em: localhost:4000.
+- No repositório *Web* rode `npm install` para instalar as dependências e, em seguida, o `npm run dev` para iniciar o servidor front.
 
-**No diretório Web
-
-<p>No diretório /backend</p>
-
-```bash 
-npm install
-npm run dev
-```
-    
-<br>
-
-<p>No diretório /web</p>
-
-```bash 
-npm install
-npm run dev
-```
-
-<br>
-<ul>
-<li>Servidor: localhost:4000</li>
-</ul>
       
 </section>
 <hr>
