@@ -7,7 +7,8 @@
     Show Me Your
     PRODUCT!</h1>
 
-    
+    ![WhatsApp Image 2022-07-15 at 16 18 36](https://user-images.githubusercontent.com/92600746/179316100-0e3df263-4f51-4e56-9296-7b6db4592d38.jpeg)
+
 <hr>  
 
 <section class="devs">
@@ -105,7 +106,14 @@
 
 <hr> 
 
-<h3>Instruções</h3>
+## Instruções
+
+- Clone ou baixe o repositório <br>
+**No diretório Backend:**
+- `npm install` para instalar as dependências 
+- `npm run dev` para iniciar o servidor
+
+**No diretório Web
 
 <p>No diretório /backend</p>
 
